@@ -59,7 +59,57 @@ a[ href="#contact"]{
     border-radius: 8px;
 
 }
+.empowering{
+    color:rgb(254, 163, 1) ;
+    
+}
+.towards{
+    color:rgb(1, 172, 253) ;
+}
+.button-primary{
+    width: 192px;
+    height: 41px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 8px;
 
+}
+.hero{
+    background-color: white;
+    display: flex;
+    margin: 32px;
+    width: 1158.61px;
+    height: 575px;
+    top: 100px;
+    left: 141px;
+    margin: 32px;
+    align-items: center;
+    
+}
+.hero-image{
+    width: 468.61px;
+    height: 575px;
+    
+    
+
+}
+    
+    
+    
+
+.hero-container{
+    width: 640px;
+    height: 331px;
+    
+    font-size: larger;
+    
+    
+
+    
+
+    
+}
 
 
     
